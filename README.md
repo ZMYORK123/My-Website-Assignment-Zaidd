@@ -1,1 +1,1 @@
-This is the source code to Zaid Almahrouq's public academic website: https://zaidalmahrouq.info/. Feel free to clone this code for your own personal use.
+I’m Zaid, a student at York University studying Financial and Business Economics. I’m passionate about exploring the growing role of technology in the future of finance and economics, and I’m eager to expand my knowledge in IT. My goal is to learn how to merge technology with finance to stay ahead in an increasingly digital world.
