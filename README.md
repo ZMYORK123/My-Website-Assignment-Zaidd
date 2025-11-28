@@ -1,1 +1,2 @@
 I’m Zaid, a student at York University studying Financial and Business Economics. I’m passionate about exploring the growing role of technology in the future of finance and economics, and I’m eager to expand my knowledge in IT. My goal is to learn how to merge technology with finance to stay ahead in an increasingly digital world.
+https://github.com/ZMYORK123/My-Website-Assignment-Zaidd/blob/main/Zaid%20Cv.docx
