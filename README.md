@@ -1,1 +1,1 @@
-# My-Website-Assignment-Zaidd
+This is the source code to Zaid Almahrouq's public academic website: https://zaidalmahrouq.info/. Feel free to clone this code for your own personal use.
