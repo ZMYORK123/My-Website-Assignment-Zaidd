@@ -2,8 +2,3 @@ I’m Zaid, a student at York University studying Financial and Business Economi
 
 My CV: https://docs.google.com/document/d/1DzIadfM3J0HUhLTJ-XyjrqPRf_aGfkEf/edit?usp=drive_link&ouid=110121413906837478927&rtpof=true&sd=true
 
-The integration of technology into economics, finance, and business has become essential for achieving sustainable progress and keeping pace with global innovation. In today’s rapidly evolving world, data analytics, artificial intelligence, and digital platforms are transforming how decisions are made and how markets operate. By merging technology with economic and financial systems, organizations can analyze complex information more efficiently, predict market trends, and make informed strategic choices that drive long-term growth.
-
-Technology also enhances transparency, increases operational efficiency, and reduces human error. In business, digital tools streamline processes, improve communication, and open opportunities for global expansion. Financial technologies, such as online banking, blockchain, and automated trading, are reshaping the way institutions and consumers interact with money, creating faster and more secure transactions.
-
-Furthermore, technology encourages innovation by enabling new business models and industries to emerge. It allows companies and economies to adapt more quickly to global changes, ensuring competitiveness in an interconnected market. Ultimately, merging technology with economics, finance, and business is not just beneficial—it is fundamental for meeting future challenges, fostering innovation, and moving forward with the rest of the world.
